@@ -1,5 +1,5 @@
 //declare variables
-var list = ["french", "english","spanish"];
+var list = ["french", "english", "latin"];
 var listSelect = Math.floor(Math.random() * list.length);
 var word = list[listSelect];
 var underscore = [];
